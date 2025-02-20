@@ -3,7 +3,7 @@ from tkinter import ttk
 from tkinter import messagebox
 import json
 import os
-
+#ChatGPT helped me lol :3
 class FileExplorerApp:
     def __init__(self, root, fs_data):
         self.root = root
