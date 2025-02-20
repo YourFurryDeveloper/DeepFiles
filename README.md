@@ -24,4 +24,4 @@ Here is an example scan of the Repl I used to test this in.
 To view the files, run `explorer.py` in the same directory as `fs.json`. It will open up a Tkinter TreeView window showing your recorded filesystem.
 
 
-**NOTE: Do not use this on your / directory (or any SUPER large directory, for that matter), as it will make the JSON file absolutely MASSIVE in size, and may crash when it goes to dump all the info**
+**NOTE: Do not use this on your / directory (or any SUPER large directory, for that matter), as it will make the JSON file absolutely MASSIVE in size, and may crash when it goes to dump all the info.**
